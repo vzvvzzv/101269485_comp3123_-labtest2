@@ -1,16 +1,16 @@
 Deniz Dogan 101269485
 COMP3123 Lab Test 2
 
-Weather Application
+#Weather Application
 
-Full Size Screenshot:
-![alt text](https://github.com/vzvvzzv/101269485_comp3123_-labtest2/screenshots/fullsize.png?raw=true)
-
-
-Mobile Size Screenshot:
-![alt text](https://github.com/vzvvzzv/101269485_comp3123_-labtest2/screenshots/scaledmobile.png?raw=true)
+##Full Size Screenshot:
+![Full Size](https://raw.githubusercontent.com/vzvvzzv/101269485_comp3123_-labtest2/master/screenshots/fullsize.png)
 
 
-Response Screenshot:
-![alt text](https://github.com/vzvvzzv/101269485_comp3123_-labtest2/screenshots/response.png?raw=true)
+##Mobile Size Screenshot:
+![Mobile Size](https://raw.githubusercontent.com/vzvvzzv/101269485_comp3123_-labtest2/master/screenshots/scaledmobile.png)
+
+
+##Response Screenshot:
+![Response](https://raw.githubusercontent.com/vzvvzzv/101269485_comp3123_-labtest2/master/screenshots/response.png)
 
