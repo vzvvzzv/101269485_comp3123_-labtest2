@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+.title {
+  font-size : 24pt;
+  color:black;
+  display: flex;
+  justify-content: center;
+}
+
+.icon {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.infobox {
+  border: 5px solid;
+  border-image-slice: 1;
+  border-image-source: linear-gradient(to left, #42fdff, #fba434);
+  font-size: 16pt;
+  margin-left: 5%;
+  margin-right :5%;
+}
+
+.info {
+  display:flex;
+  justify-content: center;
+}
